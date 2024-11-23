@@ -1,0 +1,7 @@
+{
+  "name": "amret-app-movil-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

@@ -1,1 +1,0 @@
-# amret-app-movil

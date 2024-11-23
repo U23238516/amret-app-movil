@@ -1,0 +1,21 @@
+{
+  "name": "AMRET",
+  "short_name": "AMRET",
+  "description": "AMRET una aplicacion para todos los usuarios.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4e8ef7",
+  "icons": [
+    {
+      "src": "assets/icon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
