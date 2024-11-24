@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/amret-app-movil/sw.js', { scope: '/amret-app-movil/' })})}
